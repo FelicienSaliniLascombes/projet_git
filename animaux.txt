@@ -1,4 +1,4 @@
 chien
 chat
-lion
+lion + ours blanc
 toucan
